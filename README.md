@@ -1,2 +1,1 @@
-# exquisite-corpse
-A short story
+# How a small group of friends ended up helping orphans
