@@ -12,3 +12,5 @@ During my final years in the university, a friend of mine had an idea to help th
 We made organisation called PaCode which goes all around Pakistan with raspberry pi's and we teaches the childeren how to use computers and how to code.
 After that most childeren that had a fondness for coding also got in the project and began teaching coding to even more childeren. 
 So 5 years later we already helped thousands of childeren, but now Pacode has even a better idea!
+
+Pacode created a platform for learning wich is also a social media platform where all children can play around with code, connect with each other through games and challenges. :space_invader: :space_invader: :space_invader: They are learning while playing in this Pacode community. Businesses started to reach out and work together with Pacode wich creates a lot of new opportunities :star_struck: 
